@@ -1,0 +1,22 @@
+{
+  "name": "fictional-theme",
+  "displayName": "fictional-theme",
+  "description": "yet another comfortable theme",
+  "publisher": "alex-savin",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "fictional theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fictional-theme-color-theme.json"
+      }
+    ]
+  }
+}
