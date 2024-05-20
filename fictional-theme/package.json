@@ -2,8 +2,9 @@
   "name": "fictional-theme",
   "displayName": "fictional-theme",
   "description": "yet another comfortable theme",
+  "icon": "assets/logo.png",
   "publisher": "alex-savin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -18,5 +19,13 @@
         "path": "./themes/fictional-theme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "green",
+    "fictional theme",
+    "fictional",
+    "savin"
+  ]
 }
